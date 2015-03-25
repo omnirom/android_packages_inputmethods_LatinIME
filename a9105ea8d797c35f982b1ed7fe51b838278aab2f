@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "6b22818b_dc5cfe1e",
+        "filename": "java/src/com/android/inputmethod/latin/utils/DictionaryInfoUtils.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 381,
+      "author": {
+        "id": 1000026
+      },
+      "writtenOn": "2015-03-25T12:49:01Z",
+      "side": 1,
+      "message": "actually the check should be the same as above - right?\nSo also check for  dictionaryInfo \u003d\u003d null",
+      "revId": "a9105ea8d797c35f982b1ed7fe51b838278aab2f",
+      "serverId": "56841c99-7c94-43d4-bf0b-cb4707e66d55",
+      "unresolved": false
+    }
+  ]
+}
