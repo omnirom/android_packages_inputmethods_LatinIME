@@ -14,5 +14,5 @@
      limitations under the License.
  -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="keyboard_theme_follow_system">Follow system settings</string>
+    <string name="keyboard_theme_material_follow_system">Material - follow system settings</string>
 </resources>
