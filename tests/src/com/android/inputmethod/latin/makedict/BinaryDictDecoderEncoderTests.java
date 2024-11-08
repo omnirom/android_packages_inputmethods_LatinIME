@@ -17,7 +17,6 @@
 package com.android.inputmethod.latin.makedict;
 
 import android.test.AndroidTestCase;
-import android.test.suitebuilder.annotation.LargeTest;
 import android.util.Log;
 import android.util.Pair;
 import android.util.SparseArray;
@@ -48,7 +47,6 @@ import java.util.TreeMap;
 /**
  * Unit tests for BinaryDictDecoderUtils and BinaryDictEncoderUtils.
  */
-@LargeTest
 public class BinaryDictDecoderEncoderTests extends AndroidTestCase {
     private static final String TAG = BinaryDictDecoderEncoderTests.class.getSimpleName();
     private static final int DEFAULT_MAX_UNIGRAMS = 300;
