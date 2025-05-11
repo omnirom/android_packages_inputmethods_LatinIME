@@ -36,6 +36,6 @@ java_binary_host {
         "jsr305",
         "latinime-common",
     ],
-    required: ["libjni_latinime"],
+    jni_libs: ["libjni_latinime"],
     main_class: "com.android.inputmethod.latin.dicttool.Dicttool",
 }
